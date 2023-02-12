@@ -25,10 +25,11 @@ GitHub :
 
 git status : shows  all of the files that are updated , deleted modified that are not saved in commit yet
 git add . : takes all modified files in your working directory and places the modified version in a staging area
-get add filename
-git add filename filename 
+get add "file name ": one file  processed according to git add
+git add filename filename : two files are processed according to git add
 
-git commit - m ("message"): commit files in git repository with message 
+git commit - m ("message"):  git commit takes everything from the staging area and makes a permanent snapshot of the 
+current state of your repository that is associated with a unique identifier with message
 git clone repository_address: Bring a repository that is hosted somewhere like github into a folder on your local machine
 Directory - folder
 cd - change directory
