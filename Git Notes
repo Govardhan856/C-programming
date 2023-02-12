@@ -1,0 +1,44 @@
+Git :
+    - Git is free and open source version control system and source code management
+        and software configuration management
+    - git --version: to check version of git in cmd
+
+Why Git:
+    - Developers can work together from anywhere in the world.
+    - Developers can see the full history of the project.
+    - Developers can revert to earlier versions of a project
+
+Git Uses:
+    - Tracking code changes
+    - Tracking who made change
+    - coding collaboration
+    - manage code with repositories(directory)
+    - "Clone" a project to work on a local copy(computer)
+    - Control and track changes with staging and committing
+    - Branch and merge to allow for a work on different parts
+        and versions of a project
+    - pull the latest version of the project to a local copy
+    - push local updates to the main project
+
+GitHub :
+    Github is a platform to host source code of application that work with help of git commands
+
+git status : shows  all of the files that are updated , deleted modified that are not saved in commit yet
+git add . : takes all modified files in your working directory and places the modified version in a staging area
+get add filename
+git add filename filename 
+
+git commit - m : commit files in git repository 
+
+Directory - folder
+cd - change directory
+git clone repository_address = Bring a repository that is hosted somewhere like github into a folder on your local machine
+add = track your files and changes in git
+commit =  save files in git
+push = upload git commits to a remote repo like github
+pull = download changes from remote repo to your local machine the opposite of push
+la = ls -la (list everything in the directory including hidden files)
+.md = markdown
+
+
+
